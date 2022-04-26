@@ -1,0 +1,25 @@
+.food {
+    display: flex;
+    justify-content: center;
+}
+
+.arrozcaldo {
+
+    border: 3px solid white;
+    width: 200px;
+}
+
+.bento {
+    border: 3px solid white;
+    width: 200px;
+}
+
+.pasta {
+    border: 3px solid white;
+    width: 200px;
+}
+
+body {
+    background-color: #3E4273;
+    color: white;
+}
